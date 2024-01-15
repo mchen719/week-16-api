@@ -1,0 +1,3 @@
+The design of this to do list is to allow the user to keep track of their list of tasks that need to completed 
+It is designed to have seperate folders that follow the MVC method. The models folder houses the model for the form. The controllers folder houses how each api endpoint will run and the routes folder houses the routes for each endpoint.
+As of now, we have not learned how to run load bearing tests. 
